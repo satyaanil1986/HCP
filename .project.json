@@ -1,0 +1,32 @@
+{
+  "generation": [
+    {
+      "templateId": "fioritemplate.UI5masterDetailKapsel",
+      "templateVersion": "1.28.1",
+      "dateTimeStamp": "Wed, 03 Feb 2016 08:02:32 GMT"
+    }
+  ],
+  "mockpreview": {
+    "mockUri": "/destinations/Northwind/V2/Northwind/Northwind.svc",
+    "metadataFilePath": "",
+    "loadJSONFiles": false,
+    "loadCustomRequests": false,
+    "mockRequestsFilePath": ""
+  },
+  "translation": {
+    "translationDomain": "",
+    "supportedLanguages": "en,fr,de",
+    "defaultLanguage": "en",
+    "defaultI18NPropertyFile": "i18n.properties",
+    "resourceModelName": "i18n"
+  },
+  "projectType": [
+    "com.sap.webide.hybrid.cordova",
+    "sap.watt.uitools.ide.fiori"
+  ],
+  "hcpdeploy": {
+    "account": "s0011561028trial",
+    "name": "nothwind",
+    "lastVersionWeTriedToDeploy": "1.0.3"
+  }
+}
